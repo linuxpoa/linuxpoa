@@ -33,6 +33,5 @@
 </div>
 
         <div style="display:inline_block">
-            ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
             ![Snake animation](https://github.com/linuxpoa/linuxpoa/blob/output/github-contribution-grid-snake.svg)
         </div>
