@@ -28,9 +28,10 @@
         <img align="center" alt="Marco-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">        
     <!--img align="center" alt="Marco-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"-->
     <!--img align="center" alt="Marco-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"-->
-      <!--img align="center" alt="Marco-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"-->       
-    </div>
-     ![Snake animation](https://github.com/linuxpoa/linuxpoa/blob/output/github-contribution-grid-snake.svg)
+      <!--img align="center" alt="Marco-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"-->
+        
+        ![Snake animation](https://github.com/linuxpoa/linuxpoa/blob/output/github-contribution-grid-snake.svg)
+    </div>        
 </div>
 
         
