@@ -30,7 +30,7 @@
     <!--img align="center" alt="Marco-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"-->
       <!--img align="center" alt="Marco-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"-->
         
-        ![Snake animation](https://github.com/linuxpoa/linuxpoa/blob/output/github-contribution-grid-snake.svg)
+      ![Snake animation](https://github.com/linuxpoa/linuxpoa/blob/output/github-contribution-grid-snake.svg)
     </div>        
 </div>
 
