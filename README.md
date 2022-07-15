@@ -2,9 +2,8 @@
     <img align="center" alt="Marco-avatar" src="https://avatars.githubusercontent.com/u/16420372?s=96&amp;v=4" data-view-component="true" class="avatar circle mr-3">
 </div>
 <div align=center>
-    <h3> Olá, seja bem vindo ao meu repositório!</h3>    
+    <h3>Olá, seja bem vindo ao meu repositório!</h3>    
 </div>
-
 <!--Redes Sociais-->
 <div align="center"> 
     <a href="https://instagram.com/linuxpoa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -34,7 +33,7 @@
       <!--img align="center" alt="Marco-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"-->       
    </div>   
     <!--Cobrinha>
-    ![Snake animation](https://github.com/linuxpoa/linuxpoa/blob/output/github-contribution-grid-snake.svg)<-->   
+    ![Snake animation](https://github.com/linuxpoa/linuxpoa/blob/output/github-contribution-grid-snake.svg)-->   
 </div>
 
     
